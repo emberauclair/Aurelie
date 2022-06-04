@@ -23,12 +23,15 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 ## My Story
 [[Crescenda to Crescendo]]
 
-## My Poems
+# My Poems
 [[something]]
+[[thanks]]
+[[snuggle]]
+
 .
 .
 .
 .
 .
-# Contact Me
+# Contact me
 Add me on insta: ember.auclair
