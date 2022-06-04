@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+[[landing]] 
 #philosophy 
 
 — SOURCE: https://www.youtube.com/watch?v=DffqK6j-y1U

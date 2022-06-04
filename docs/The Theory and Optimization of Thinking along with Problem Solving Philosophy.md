@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+[[landing]]
 #philosophy 
 problems: 
 
