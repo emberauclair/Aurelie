@@ -4,7 +4,6 @@ share: true
 [[landing]] 
 Crescenda to Crescendo
 
-
 I am a fighter. Not literally, but I have fought for and won control of my life. I come from a family that was strongly against LGBTQ+, I was raised in isolation and homeschooled up until college. I didn't know what I wanted in life because I didn't have any experience in the real world, so I let my parents tell me where to go to college. I started at Rose-Hulman Institute of Technology in 2019, and the residential life was eye opening in terms of gaining my independence.. It was a completely different lifestyle, and I learned to be self-reliant. 
 
 I took on my identity as my own person during that first year. There were several key realizations: Firstly, I was not an engineer and yet I was at an engineering school. Secondly, I am trans. Because I’m from a conservative family, coming to terms with being trans was absolutely the hardest thing I've ever done. I knew that I could not come out to my family - they would not support me. My university also stifled my identity, with little to no resources in terms of diversity, and I was the only trans person on campus to my knowledge. I felt as though I had no way out. My roommates and parents were homophobic. I was terrified I’d be attacked,  I was miserable. I couldn't safely transition. I was close to giving up. 
