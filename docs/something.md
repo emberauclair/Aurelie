@@ -2,8 +2,10 @@
 share: true
 ---
 [[landing]]
-Something
-
+.
+.
+.
+# Something
 
 There’s something about you that I can’t quite place
 
@@ -28,13 +30,10 @@ Whenever you walk into the gloom.
 Whatever it is that I can’t quite place,
 
 It never fails to make my heart race.
-
-
-
-
-
+.
+.
+.
 -dedicated to Devon
-
 -by Aurélie, 2020
 
 [[cute]] [[starboard]] [[complete]] [[posted]] [[favorite]]   #poem/starboard #poem 
