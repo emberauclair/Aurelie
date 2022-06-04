@@ -25,9 +25,10 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 
 # My Poems
 [[something]]
-
-
-
-
-
-
+.
+.
+.
+.
+.
+# Contact Me
+Add me on insta: ember.auclair
