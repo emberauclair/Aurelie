@@ -1,5 +1,6 @@
 ---
 share: true
+tags: published
 ---
 ## Aurélie Auclair - Getting Started
 
@@ -16,18 +17,19 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 
 ## Essays and Philosophy
 [[Solving the Issue of Forgetting Important Facts]]
-[[The Theory and Optimization of Thinking along with Problem Solving Philosophy]]
-[[Defining Religion, Mythos, Logos, Suffering]]
-
+[[The Theory and Optimization of Thinking along with Problem Solving Philosophy]] - needs work
+[[Defining Religion, Mythos, Logos, Suffering]] - needs work
+[[essay on rationality and its role in stoicism]]
 
 ## My Story
 [[Crescenda to Crescendo]]
-
+[[Aurelie Ember Auclair Biography]] - incomplete
 ## My Poems
 [[something]]
 [[thanks]]
 [[snuggle]]
 [[small sad smile]]
+[[snow]]
 
 .
 .
