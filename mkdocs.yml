@@ -1,6 +1,6 @@
 site_name: Aurelie
 site_description: a collection of my thoughts and ideas
-site_url: https://github.com/emberauclair/Aurelie.git
+site_url: https://emberauclair.github.io/Aurelie/
 
 theme:
     name: 'material'
