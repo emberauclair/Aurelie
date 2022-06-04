@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://emberauclair.github.io/Aurelie/Crescenda%20to%20Crescendo/</loc>
+         <lastmod>2022-06-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://emberauclair.github.io/Aurelie/Defining%20Religion%2C%20Mythos%2C%20Logos%2C%20Suffering/</loc>
          <lastmod>2022-06-04</lastmod>
          <changefreq>daily</changefreq>
@@ -16,7 +21,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://emberauclair.github.io/Aurelie/notes/</loc>
+         <loc>https://emberauclair.github.io/Aurelie/landing/</loc>
          <lastmod>2022-06-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
