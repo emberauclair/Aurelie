@@ -1,6 +1,6 @@
-site_name: your_site_name
-site_description: A cool description
-site_url: https://mara-li.github.io/obsidian-mkdocs-publisher-template/
+site_name: Aurelie
+site_description: a collection of my thoughts and ideas
+site_url: https://github.com/emberauclair/Aurelie.git
 
 theme:
     name: 'material'
