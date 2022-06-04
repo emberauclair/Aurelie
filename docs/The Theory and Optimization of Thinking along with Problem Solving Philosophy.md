@@ -1,7 +1,9 @@
 ---
 share: true
+tags: published
 ---
 [[landing]]
+
 #philosophy 
 problems: 
 
@@ -93,8 +95,8 @@ It's really hard to narrow down exactly what boosts thinking. I can say however 
 [[how people think]]
 [[theory on thinking]]
 [[organizational theory]]
-[[insomnia landing and notes]] 
 [[da Case Study - Everyman Sleep]] 
+[[da Case Study - Everyman Sleep]]  
 [[Pain is not the unit of effort]]
-[[raising the happiness set point]]
+[[raising the happiness set point]] 
 [[Dad reply]]
